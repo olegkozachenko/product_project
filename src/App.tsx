@@ -26,8 +26,7 @@ function App() {
             </h1>
             <p>
               We create <span>exclusive and unique workouts</span> for you.
-              Invest in your body and <span>get much more performance</span>
-              and quality of life.
+              Invest in your body and <span>get much more performance</span> and quality of life.
             </p>
             <button><img src="src/assets/path4.svg" alt="" />Start now</button>
           </div>
