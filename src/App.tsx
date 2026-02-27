@@ -34,9 +34,9 @@ function App() {
             <img src="src/assets/fitness-jump.svg" alt="" />
           </div>
         </div>
-        <div className="contacts">
+        <footer>
           send us a message  <span><a href=""> @treine.me</a></span>
-        </div>
+        </footer>
       </section>
     </main>
       
